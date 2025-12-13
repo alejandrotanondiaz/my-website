@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Define your custom theme colors here */
+@theme {
+  /* your custom color tokens */
+  --color-brand: #4488bf;
+  --color-brand-hover: #4488bf;
+  --color-muted: #6b7280;
+}
+.picker {
+  color: #4488bf
+}
