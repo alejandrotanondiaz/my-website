@@ -4,11 +4,11 @@ const projects = [
   {
     title: "Personal Website",
     description: "Built with React, TypeScript, and Tailwind.",
-    link: "https://github.com/alejandro/personal-website",
+    link: "https://alejandrotanondiaz.com",
   },
   {
     title: "Voceteo",
-    description: "Video Essay",
+    description: "Audio Essay",
     link: "https://hackingfromthesouth.mit.edu/2021/05/23/voceteo/",
   },
 ];
