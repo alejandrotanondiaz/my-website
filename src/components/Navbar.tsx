@@ -16,8 +16,8 @@ const Navbar: React.FC = () => {
         {/* Center: Navigation Links */}
         <div className="flex-1 flex justify-center space-x-6">
           <Link to="/" className="text-black hover:text-brand transition-colors">Home</Link>
+          <Link to="/about" className="text-black hover:text-brand transition-colors">About</Link>          
           <Link to="/projects" className="text-black hover:text-brand transition-colors">Projects</Link>
-          <Link to="/about" className="text-black hover:text-brand transition-colors">About</Link>
           <Link to="/contact" className="text-black hover:text-brand transition-colors">Contact</Link>
         </div>
 
