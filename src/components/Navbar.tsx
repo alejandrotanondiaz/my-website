@@ -14,8 +14,8 @@ const Navbar: React.FC = () => {
 
   const socialLinks = [
     { icon: <FaGithub />, href: "https://github.com/alejandrotanondiaz", label: "GitHub" },
-    { icon: <FaLinkedin />, href: "https://www.linkedin.com/in/alejandrotanon/", label: "LinkedIn" },
-    { icon: <FaInstagram />, href: "https://www.instagram.com/alejandrotanon/", label: "Instagram" },
+    { icon: <FaLinkedin />, href: "https://www.linkedin.com/in/alejandrotanondiaz/", label: "LinkedIn" },
+    { icon: <FaInstagram />, href: "https://www.instagram.com/alejandrotanondiaz/", label: "Instagram" },
   ];
 
   return (
