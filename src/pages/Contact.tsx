@@ -32,7 +32,7 @@ const Contact: React.FC = () => {
         </a>
 
         <a
-          href="https://linkedin.com/in/alejandrotanondiaz"
+          href="https://linkedin.com/in/alejandrotanon"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-700 hover:text-brand transition"
@@ -42,7 +42,7 @@ const Contact: React.FC = () => {
         </a>
 
         <a
-          href="https://www.instagram.com/alejandrotanondiaz/"
+          href="https://www.instagram.com/alejandrotanon"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Instagram"
